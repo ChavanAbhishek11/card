@@ -1,0 +1,19 @@
+.App{
+  align-items: center;
+  display:flex;
+  justify-content: center;
+  height: 100vh;
+  
+  flex-direction:row;
+}
+body{
+  background: blue;
+}
+.App h1{
+  color:white
+}
+.App card{
+  align-items: center;
+  display:flex;
+  justify-content: center;
+}
